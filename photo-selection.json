@@ -1,0 +1,82 @@
+[
+  {
+    "id": "smile",
+    "alt": "파란 하늘 아래 팔짱을 끼고 서로 웃는 두 사람",
+    "caption": "너를 보면, 나도 모르게 웃게 돼.",
+    "pos": "50% 75%",
+    "full": "assets/gallery/smile.jpg",
+    "thumb": "assets/thumbs/smile.jpg"
+  },
+  {
+    "id": "main",
+    "alt": "파란 하늘 아래 손을 잡고 선 두 사람",
+    "caption": "같은 하늘 아래, 같은 마음으로.",
+    "pos": "50% 78%",
+    "full": "assets/main.jpg",
+    "thumb": "assets/thumbs/main.jpg"
+  },
+  {
+    "id": "embrace",
+    "alt": "푸른 하늘 아래 서로를 안고 바라보는 두 사람",
+    "caption": "우리의 가장 다정한 순간.",
+    "pos": "50% 75%",
+    "full": "assets/gallery/embrace.jpg",
+    "thumb": "assets/thumbs/embrace.jpg"
+  },
+  {
+    "id": "heart",
+    "alt": "초록 나무 앞에서 팔로 하트를 만드는 두 사람",
+    "caption": "둘이 함께 만드는 마음.",
+    "pos": "50% 65%",
+    "full": "assets/gallery/heart.jpg",
+    "thumb": "assets/thumbs/heart.jpg"
+  },
+  {
+    "id": "picnic",
+    "alt": "햇살이 드는 잔디에 나란히 앉아 있는 두 사람",
+    "caption": "나란히 앉아, 같은 곳을 바라보며.",
+    "pos": "54% 78%",
+    "full": "assets/gallery/picnic.jpg",
+    "thumb": "assets/thumbs/picnic.jpg"
+  },
+  {
+    "id": "lift",
+    "alt": "잔디 위에서 신부를 안아 올린 신랑",
+    "caption": "너와 함께라면, 매일이 설렘.",
+    "pos": "50% 76%",
+    "full": "assets/gallery/lift.jpg",
+    "thumb": "assets/thumbs/lift.jpg"
+  },
+  {
+    "id": "playful",
+    "alt": "잔디에서 원근감을 이용해 장난스러운 포즈를 취한 두 사람",
+    "caption": "이렇게 많이 웃는 우리.",
+    "pos": "50% 63%",
+    "full": "assets/gallery/playful.jpg",
+    "thumb": "assets/thumbs/playful.jpg"
+  },
+  {
+    "id": "laughter",
+    "alt": "푸른 하늘 아래 편안한 옷차림으로 크게 웃는 두 사람",
+    "caption": "평범한 하루도, 너와 함께라서.",
+    "pos": "50% 80%",
+    "full": "assets/gallery/laughter.jpg",
+    "thumb": "assets/thumbs/laughter.jpg"
+  },
+  {
+    "id": "portrait",
+    "alt": "초록 나무 앞에 나란히 서서 웃는 두 사람",
+    "caption": "오늘도, 앞으로도 나란히.",
+    "pos": "50% 79%",
+    "full": "assets/gallery/portrait.jpg",
+    "thumb": "assets/thumbs/portrait.jpg"
+  },
+  {
+    "id": "golden",
+    "alt": "따뜻한 오후 햇살 아래 서로를 바라보는 두 사람",
+    "caption": "오래도록 다정한 우리가 되기를.",
+    "pos": "50% 76%",
+    "full": "assets/gallery/golden.jpg",
+    "thumb": "assets/thumbs/golden.jpg"
+  }
+]
